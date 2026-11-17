@@ -7,5 +7,5 @@
      e.g. "+91 98765 43210". Guests see it for large groups and changes.
   Save this file, then upload the website folder again.
 */
-window.BAAN_THAI_API = "PASTE_YOUR_WEB_APP_URL_HERE";
-window.BAAN_THAI_PHONE = "";
+window.BAAN_THAI_API = "https://script.google.com/macros/s/AKfycbyN83k4A1G-mY9eXL90-jjGZE1ywy-lz-tyWulMPNlbEYeco1nrZ2Moxq_GYJGOxOw/exec";
+window.BAAN_THAI_PHONE = "+91 98765 43210";
