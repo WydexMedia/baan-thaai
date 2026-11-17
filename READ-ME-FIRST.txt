@@ -1,0 +1,13 @@
+BAAN THAI WEBSITE — what's in this folder
+==========================================
+
+index.html ............ The public booking page guests see.
+staff/ ................ The staff login page (your-website/staff).
+config.js ............. The ONE file you edit: paste your Google web app URL here.
+assets/ ............... Logo, pictures, styles and the page code. Don't change.
+robots.txt ............ Tells Google not to show the staff page in search.
+google-apps-script/
+   Code.gs ............ Copy this into your Google Sheet (Extensions > Apps Script).
+                        It is NOT uploaded to the website.
+
+Follow the setup guide step by step. You only need to edit config.js.
